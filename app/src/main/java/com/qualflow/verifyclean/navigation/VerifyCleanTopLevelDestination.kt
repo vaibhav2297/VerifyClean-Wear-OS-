@@ -1,0 +1,3 @@
+package com.qualflow.verifyclean.navigation
+
+interface VerifyCleanTopLevelDestination : VerifyCleanNavDestination
